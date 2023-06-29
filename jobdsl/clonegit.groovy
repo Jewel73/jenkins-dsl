@@ -1,4 +1,4 @@
-pipelineJob('clone-git') {
+pipelineJob('clonegit') {
   definition {
     cpsScm {
         scm {
