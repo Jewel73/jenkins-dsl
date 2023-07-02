@@ -1,4 +1,4 @@
-pipelineJob('task-tracker') {
+pipelineJob('naztech-starter') {
   definition {
     cpsScm {
         scm {
