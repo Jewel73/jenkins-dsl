@@ -8,7 +8,7 @@ pipelineJob('naztech-starter') {
             }
           }
         }
-        scriptPath("naztechstarter/Jenkinsfile")
+        scriptPath("Jenkinsfile")
     }
   }
 }
