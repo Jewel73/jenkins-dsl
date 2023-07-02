@@ -13,7 +13,7 @@ pipelineJob('naztech-starter') {
   }
   
   triggers {
-    pollSCM('* * * * *')
+    cron('* * * * *')
   }
    
 
