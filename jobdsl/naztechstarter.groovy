@@ -10,11 +10,6 @@ pipelineJob('naztech-starter') {
         }
         scriptPath("./Jenkinsfile")
     }
-  }
-  
-  triggers {
-    cron('* * * * *')
-  }
-   
+  }   
 
 }
