@@ -8,7 +8,7 @@ pipelineJob('task-tracker') {
             }
           }
         }
-        scriptPath("task-tracker/Jenkinsfile")
+        scriptPath("tasktracker/Jenkinsfile")
     }
   }
 }
