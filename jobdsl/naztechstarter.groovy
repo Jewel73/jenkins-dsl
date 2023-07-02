@@ -8,7 +8,7 @@ pipelineJob('task-tracker') {
             }
           }
         }
-        scriptPath("tasktracker/Jenkinsfile")
+        scriptPath("naztechstarter/Jenkinsfile")
     }
   }
 }
